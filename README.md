@@ -23,9 +23,8 @@ This repository is a space for me to share some of the personal projects I've de
 
 Here's a list of some of the projects you'll find in this repository:
 
-1. **Project A:** A description of Project A and its purpose.
-2. **Project B:** A description of Project B and its purpose.
-3. **Project C:** A description of Project C and its purpose.
+1. **ActivityDL:** Python script to connect to a personal Withings account and download workout information as .tcx file.
+2. **Next project:** The next project I will include here.
 
 Please refer to the individual project directories for more detailed information about each project.
 
@@ -47,6 +46,6 @@ Each project in this repository is typically accompanied by its own license. Ple
 
 ## Contact
 
-If you need to contact me or have questions related to this repository, you can reach out to me via email at [your@email.com](mailto:your@email.com) or through my GitHub profile.
+If you need to contact me or have questions related to this repository, you can reach out to me through my GitHub profile.
 
 Thank you for visiting my personal repository, and I hope you find something useful here for your own projects!
