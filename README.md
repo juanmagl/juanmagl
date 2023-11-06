@@ -46,6 +46,6 @@ Each project in this repository is typically accompanied by its own license. Ple
 
 ## Contact
 
-If you need to contact me or have questions related to this repository, you can reach out to me through my GitHub profile.
+If you need to contact me or have questions related to this repository, you can reach out to me through my GitHub profile here or my Linkedin profile: http://linkedin.com/in/juanmagl
 
 Thank you for visiting my personal repository, and I hope you find something useful here for your own projects!
