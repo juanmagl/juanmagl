@@ -24,7 +24,7 @@ This repository is a space for me to share some of the personal projects I've de
 Here's a list of some of the projects you'll find in this repository:
 
 1. **ActivityDL:** Python script to connect to a personal Withings account and download workout information as .tcx file.
-2. **Next project:** The next project I will include here.
+2. **qmk_firmware:** My own personalizations to my QMK keyboards.
 
 Please refer to the individual project directories for more detailed information about each project.
 
